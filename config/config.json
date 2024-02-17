@@ -1,0 +1,11 @@
+{
+    "link": "link fornecedor",
+    "files_path": "pasta onde os arquivos serão salvos e organizados",
+    "application_path": "caminho da aplicação onde os dados devem ser salvos",
+    "host": {
+        "hostname": "hortname",
+        "port": "port",
+        "username": "username",
+        "password": "password"
+    }
+}
